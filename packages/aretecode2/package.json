@@ -1,0 +1,12 @@
+{
+  "name": "aretecode2",
+  "version": "0.0.2",
+  "description": "aretecode publishing with lerna test 2",
+  "repository": "https://github.com/aretecode/aretecode/tree/master/packages/aretecode2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'testing publishing'"
+  },
+  "author": "aretecode",
+  "license": "MIT"
+}
